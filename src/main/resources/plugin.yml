@@ -1,0 +1,4 @@
+name: TaczDurability
+version: '1.0-SNAPSHOT'
+main: org.windy.taczDurability.TaczDurability
+api-version: '1.20'
